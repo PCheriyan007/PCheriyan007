@@ -12,6 +12,15 @@
 
 - <b>Security Engineering</b>
   - [Endpoint Security Modernization for Small Business Client](https://github.com/PCheriyan007/SmallBusinessSecurity)
+ 
+## 🧪 Additional Hands-On Practice
+
+Structured lab work completed as part of ongoing self-study (2023–2025), building foundational skills across offensive security, network appliance hardening, and Windows/AD administration.
+
+- **Penetration Testing Fundamentals** — Built a Hyper-V lab running Kali Linux and Metasploitable; used Nessus to run network and credentialed scans and identify vulnerabilities.
+- **Network Security Appliance Configuration** — Completed a structured lab (TestOut LabSim) simulating a Cisco Small Business Pro security appliance, covering firewall rules, web security settings, and administrative account hardening.
+- **Active Directory & Group Policy** — Completed hands-on lab work in a sandboxed AD environment, creating and managing Group Policy Objects for security and system configuration.
+- **Windows Endpoint Hardening** — Configured Windows Firewall policies to reinforce endpoint protection.
 
 
 <b>LinkedIn:</b> https://www.linkedin.com/in/pcheriyan/
