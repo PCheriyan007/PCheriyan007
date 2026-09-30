@@ -20,7 +20,7 @@
 Structured lab work completed as part of ongoing self-study (2023–2025), building foundational skills across offensive security, network appliance hardening, and Windows/AD administration.
 
 - <b>Penetration Testing Fundamentals</b>
-  - Built a Hyper-V lab running Kali Linux and Metasploitable; used Nessus to run network and credentialed scans and identify vulnerabilities.
+  - Built a Hyper-V lab running Kali Linux and Metasploitable; used Nessus to run network and credentialed scans to identify vulnerabilities.
 - <b>Network Security Appliance Configuration</b>
   - Completed a structured lab (TestOut LabSim) simulating a Cisco Small Business Pro security appliance, covering firewall rules, web security settings, and administrative account hardening.
 - <b>Active Directory & Group Policy</b>
