@@ -12,6 +12,8 @@
 
 - <b>Security Engineering</b>
   - [Endpoint Security Modernization for Small Business Client](https://github.com/PCheriyan007/SmallBusinessSecurity)
+- <b>Governance, Risk & Compliance / Identity & Access Management</b>
+  - [ISSO / IAM Home Lab](https://github.com/PCheriyan007/ISSOIAMLab)
  
 ## 🧪 Additional Hands-On Practice
 
