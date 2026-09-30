@@ -1,4 +1,4 @@
-<h1>Hello, I'm Preston from the Internet! <br/><a href="https://www.linkedin.com/in/pcheriyan/">Cybersecurity Professional</a></h1>
+<h1>Hello, I'm Preston from the Internet! <br/>I'm a <a href="https://www.linkedin.com/in/pcheriyan/">Cybersecurity Professional</a>!</h1>
 
 <h2>📜 Certifications:</h2>
 
@@ -15,14 +15,18 @@
 - <b>Security Engineering</b>
   - [Endpoint Security Modernization for Small Business Client](https://github.com/PCheriyan007/SmallBusinessSecurity)
  
-## 🧪 Additional Hands-On Practice
+<h2>🧪 Additional Hands-On Practice:</h2>
 
 Structured lab work completed as part of ongoing self-study (2023–2025), building foundational skills across offensive security, network appliance hardening, and Windows/AD administration.
 
-- **Penetration Testing Fundamentals** — Built a Hyper-V lab running Kali Linux and Metasploitable; used Nessus to run network and credentialed scans and identify vulnerabilities.
-- **Network Security Appliance Configuration** — Completed a structured lab (TestOut LabSim) simulating a Cisco Small Business Pro security appliance, covering firewall rules, web security settings, and administrative account hardening.
-- **Active Directory & Group Policy** — Completed hands-on lab work in a sandboxed AD environment, creating and managing Group Policy Objects for security and system configuration.
-- **Windows Endpoint Hardening** — Configured Windows Firewall policies to reinforce endpoint protection.
+- <b>Penetration Testing Fundamentals</b>
+  - Built a Hyper-V lab running Kali Linux and Metasploitable; used Nessus to run network and credentialed scans and identify vulnerabilities.
+- <b>Network Security Appliance Configuration</b>
+  - Completed a structured lab (TestOut LabSim) simulating a Cisco Small Business Pro security appliance, covering firewall rules, web security settings, and administrative account hardening.
+- <b>Active Directory & Group Policy</b>
+  - Completed hands-on lab work in a sandboxed AD environment, creating and managing Group Policy Objects for security and system configuration.
+- <b>Windows Endpoint Hardening</b>
+  - Configured Windows Firewall policies to reinforce endpoint protection.
 
 
 <b>LinkedIn:</b> https://www.linkedin.com/in/pcheriyan/
