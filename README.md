@@ -11,15 +11,7 @@
 <h2>🔐 Cybersecurity Projects:</h2>
 
 - <b>Architecture</b>
-  - [Small Business Cybersecurity Overhaul](URL)
-- <b>Project 2</b>
-  - [Name](URL)</b>
-- <b>Project 3</b>
-  - [Name](URL)
-- <b>Project 4</b>
-  - [Name](URL)
-- <b>Project 5</b>
-  - [Name](URL)
+  - [Small Business Cybersecurity Overhaul](https://github.com/PCheriyan007/SmallBusinessSecurity)
 
 
 <b>LinkedIn:</b> https://www.linkedin.com/in/pcheriyan/
