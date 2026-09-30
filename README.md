@@ -10,8 +10,8 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Architecture</b>
-  - [Small Business Cybersecurity Overhaul](https://github.com/PCheriyan007/SmallBusinessSecurity)
+- <b>Security Engineering</b>
+  - [Endpoint Security Modernization for Small Business Client](https://github.com/PCheriyan007/SmallBusinessSecurity)
 
 
 <b>LinkedIn:</b> https://www.linkedin.com/in/pcheriyan/
