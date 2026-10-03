@@ -10,8 +10,8 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Governance, Risk & Compliance / Identity & Access Management</b>
-  - [ISSO / IAM Home Lab](https://github.com/PCheriyan007/ISSOIAMLab)
+- <b>Governance, Risk & Compliance/Identity & Access Management</b>
+  - [ISSO/IAM Home Lab](https://github.com/PCheriyan007/ISSOIAMLab)
 - <b>Security Engineering</b>
   - [Endpoint Security Modernization for Small Business Client](https://github.com/PCheriyan007/SmallBusinessSecurity)
  
