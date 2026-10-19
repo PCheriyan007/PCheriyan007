@@ -3,7 +3,8 @@
 <h2>📜 Certifications:</h2>
 
 - <b>CompTIA Security+</b>
-  - Exam scheduled for October 2026
+  - Earned October 2026
+  - https://www.credly.com/badges/7f5e0ea8-b55c-4e45-9175-6be46fe62ecc/public_url
 - <b>Google Cybersecurity Professional Certificate</b>
   - Studied Cybersecurity Fundamentals and completed hands-on labs for Linux Bash commands, SQL, SIEM, IDS, Wireshark packet analysis, and Python programming.
   - https://coursera.org/share/a73ab8d8b1cf520aec884b8cce548c52
